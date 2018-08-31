@@ -3,8 +3,7 @@ title: 不忘初心，不愿平凡
 SEOTitle: 张晨辉的博客 | CC Blog
 header-img: img/post-bg-desk.jpg
 email: SunlightMoon0910@gmail.com
-description: "When your talent can not support your ambition, you should study quietly.
-When your ability can't control your goals, you should sink your heart and experience it."
+description: "When your ability can't control your goals, you should sink your heart and experience it"
 keyword: "CC, CC Blog, 张晨辉的博客, xianyuch, 张晨辉, Android, windows, phone"
 url: "https://xianyuch.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -14,7 +13,7 @@ github_repo: "https://github.com/xianyuch/xianyuch.github.io" # you code reposit
 # 侧边栏
 sidebar: true                           # 是否开启侧边栏
 sidebar-about-description: "Growth is a long road!"
-sidebar-avatar: /img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
